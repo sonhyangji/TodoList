@@ -12,7 +12,7 @@ import {
 } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { Fontisto, FontAwesome5 } from '@expo/vector-icons';
-import { theme } from '../../colors';
+import { theme } from '../../../colors';
 
 interface ToDo {
   text: string;
